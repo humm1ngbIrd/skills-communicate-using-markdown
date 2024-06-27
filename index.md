@@ -9,3 +9,5 @@ var myVar = "Hello, world!";
 - [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+
+# oops! all of this should be done in a single pull request but I did it in sperate ones if I merge this one and it doesnt work... I'll have to start over
