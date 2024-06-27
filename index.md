@@ -1,1 +1,3 @@
 # Adding Header in the markdown file \<h1>
+### Lets add an image now...
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
